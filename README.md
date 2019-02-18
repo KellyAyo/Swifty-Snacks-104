@@ -12,7 +12,7 @@ Now, jump into our view controller to detail and execute blocks for 2 new textFi
 
 Run the app. You will be presented with a grey view controller, complete with 2 textFields; namely Text Field ONE & Text Field TWO. Pressing either of these text fields will trigger the keyboard to present itself.
 
-<img src="Swifty Snacks 104/image3.png">
+<img src="Swifty Snacks 104/image3.png" height="1000">
 
 Our task, in this Snack, it to enable the user to dismiss the keyboard using touch.
 
